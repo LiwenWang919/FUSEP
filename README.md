@@ -517,7 +517,7 @@ If you find FUSEP useful for your research, please consider citing our paper:
 @inproceedings{pu2026fusep,
   title     = {FUSEP: A Multi-Center Benchmark for Diverse Tasks in Fetal Ultrasound Screening Early Pregnancy},
   author    = {Pu, Bin and Yang, Jiwen and Wang, Liwen and Tan, Ying and He, Guannan and Dong, Xingbo and Lin, Qika and Guo, Jiarong and Yang, Lixian and Li, Shengli and Liu, Zuozhu and Li, Kenli},
-  booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
+  booktitle = {Proceedings of the 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
   year      = {2026},
   publisher = {ACM}
 }

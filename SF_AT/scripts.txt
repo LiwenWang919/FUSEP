@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=7 python train_net.py --num-gpus 1 --config configs/sfda_at_rcnn_vgg_CRL_SC2SZ.yaml OUTPUT_DIR output/CRL_SC2SZ

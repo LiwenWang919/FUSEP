@@ -1,0 +1,36 @@
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141553_0.45908228669318224
+mAP:0.45908228669318224
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141600_0.6737318108724514
+mAP:0.6737318108724514
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141606_0.7041799664068491
+mAP:0.7041799664068491
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141613_0.7358646594311935
+mAP:0.7358646594311935
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141625_0.7565458718809593
+mAP:0.7565458718809593
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141632_0.7802612202300839
+mAP:0.7802612202300839
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141657_0.7812155634253072
+mAP:0.7812155634253072
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141709_0.7835884633895983
+mAP:0.7835884633895983
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141716_0.7892737441218213
+mAP:0.7892737441218213
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141722_0.7919813061447547
+mAP:0.7919813061447547
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141728_0.7926303289266751
+mAP:0.7926303289266751
+------------------------------------
+Processing /media/Storage2/Lvxg/One_Stage_Fetus_Object_Detection_Code_v3/M3-UDA/ckp/CRL_KL_SA08141735_0.7976503691793142
+mAP:0.7976503691793142
+------------------------------------

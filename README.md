@@ -2,9 +2,9 @@
 
 # FUSEP: A Multi-Center Benchmark for Diverse Tasks in Fetal Ultrasound Screening Early Pregnancy
 
-**[KDD 2026 Datasets and Benchmark Track]**
+**[KDD 2026 Datasets and Benchmarks Track]**
 
-[![Paper](https://img.shields.io/badge/Paper-KDD%202025-blue)](https://dl.acm.org/doi/XXXXXX)
+[![Paper](https://img.shields.io/badge/Paper-KDD%202026-blue)](https://dl.acm.org/doi/XXXXXX)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.6%2B-orange)](https://pytorch.org/)
@@ -38,7 +38,7 @@
 
 ## Introduction
 
-FUSEP is the **first open-source multi-center ultrasound benchmark** dataset for early fetal pregnancy screening, accepted at **KDD 2025 Datasets and Benchmarks Track**.
+FUSEP is the **first open-source multi-center ultrasound benchmark** dataset for early fetal pregnancy screening, accepted at **KDD 2026 Datasets and Benchmarks Track**.
 
 A large number of infants with congenital anomalies are born each year globally, especially in areas with underdeveloped medical resources. Fetal ultrasound screening is the most common modality for early pregnancy anatomy detection, capable of detecting anomalies early and providing opportune treatment advice. However, the **lack of publicly available ultrasound datasets** on early fetal gestation has significantly slowed down the development of automated assisted diagnosis.
 
@@ -514,11 +514,11 @@ CUDA_VISIBLE_DEVICES=0 accelerate launch test.py \
 If you find FUSEP useful for your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{pu2025fusep,
+@inproceedings{pu2026fusep,
   title     = {FUSEP: A Multi-Center Benchmark for Diverse Tasks in Fetal Ultrasound Screening Early Pregnancy},
   author    = {Pu, Bin and Yang, Jiwen and Wang, Liwen and Tan, Ying and He, Guannan and Dong, Xingbo and Lin, Qika and Guo, Jiarong and Yang, Lixian and Li, Shengli and Liu, Zuozhu and Li, Kenli},
   booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-  year      = {2025},
+  year      = {2026},
   publisher = {ACM}
 }
 ```

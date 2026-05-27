@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Model weights & checkpoints
+*.pth
+*.pkl
+*.ckpt
+*.bin
+*.safetensors
+
+# Training outputs
+FullSupervise/checkpoints/
+Semi/work_dirs/
+SF_AT/output/
+SF_AT/output_SF/
+UDA/output/
+
+# Pretrained backbones (download separately)
+Semi/pretrained_model/backbone/*.pth
+Semi/pretrained_model/baseline/*.pth
+SF_AT/checkpoints/*.pth
+
+# Dataset images (not redistributable)
+Semi/voc/
+SF_AT/datasets/
+UDA/datasets/
+datasets/
+data/images/
+
+# Logs & results
+*.log
+Semi/results/
+wandb/
+runs/
+tensorboard_logs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+*._.* 
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary
+*.tmp
+*.temp
+tmp/
+temp/
